@@ -1,4 +1,5 @@
 # Dashboard
+React MUI dashboard web app created using UXPin Merge tool
 
 Live [Demo](https://dashboard-uxpin.vercel.app/)
 
