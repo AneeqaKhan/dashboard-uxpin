@@ -1,4 +1,4 @@
-Dashboard
+# Dashboard
 
 To run the app in the local environment
 ```javascript
